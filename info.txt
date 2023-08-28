@@ -1,0 +1,11 @@
+--- Start --
+name= Tariq Hook
+email= thook@desu.edu
+github= code-rhino
+--- End ---
+
+--- Start --
+name= <Your name>
+email= <Your Email>
+github= <Your github username>
+--- End ---
